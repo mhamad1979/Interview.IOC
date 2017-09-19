@@ -91,9 +91,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\My.IOC\My.IOC.csproj">
+    <ProjectReference Include="..\My.IOC.Web\My.IOC.Web.csproj">
       <Project>{6BDF4EDE-3546-45BC-A6CE-BB30F5780714}</Project>
-      <Name>My.IOC</Name>
+      <Name>My.IOC.Web</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />

@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using My.IOC;
-using My.IOC.Controllers;
+using My.IOC.Web.Controllers;
 
 namespace My.IOC.Tests.Controllers
 {
