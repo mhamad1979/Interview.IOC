@@ -1,0 +1,4 @@
+C:\InterviewIOC\Interview.IOC\My.IOC.Library\bin\Debug\My.IOC.Library.dll
+C:\InterviewIOC\Interview.IOC\My.IOC.Library\bin\Debug\My.IOC.Library.pdb
+C:\InterviewIOC\Interview.IOC\My.IOC.Library\obj\Debug\My.IOC.Library.dll
+C:\InterviewIOC\Interview.IOC\My.IOC.Library\obj\Debug\My.IOC.Library.pdb

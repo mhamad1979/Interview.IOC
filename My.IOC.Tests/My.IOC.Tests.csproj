@@ -81,8 +81,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\IocTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Controllers\HomeControllerTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="App.config" />
@@ -91,6 +91,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\My.IOC.Library\My.IOC.Library.csproj">
+      <Project>{342A184F-2F83-4100-A1A0-B16D6D17441A}</Project>
+      <Name>My.IOC.Library</Name>
+    </ProjectReference>
     <ProjectReference Include="..\My.IOC.Web\My.IOC.Web.csproj">
       <Project>{6BDF4EDE-3546-45BC-A6CE-BB30F5780714}</Project>
       <Name>My.IOC.Web</Name>

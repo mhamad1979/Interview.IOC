@@ -64,3 +64,6 @@ C:\InterviewIOC\Interview.IOC\My.IOC.Web\bin\Microsoft.AI.WindowsServer.xml
 C:\InterviewIOC\Interview.IOC\My.IOC.Web\bin\Microsoft.AI.Web.xml
 C:\InterviewIOC\Interview.IOC\My.IOC.Web\obj\Debug\My.IOC.Web.dll
 C:\InterviewIOC\Interview.IOC\My.IOC.Web\obj\Debug\My.IOC.Web.pdb
+C:\InterviewIOC\Interview.IOC\My.IOC.Web\obj\Debug\My.IOC.Web.csprojResolveAssemblyReference.cache
+C:\InterviewIOC\Interview.IOC\My.IOC.Web\bin\My.IOC.Library.dll
+C:\InterviewIOC\Interview.IOC\My.IOC.Web\bin\My.IOC.Library.pdb
